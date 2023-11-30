@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "kolibry",
+    "build": "kolibry build",
+    "export": "kolibry export"
+  },
+  "dependencies": {
+    "@kolibry/cli": "latest",
+    "@kolibry/theme-default": "latest",
+    "@kolibry/theme-seriph": "latest"
+  }
+}
